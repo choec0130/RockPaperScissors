@@ -1,2 +1,2 @@
 # RockPaperScissors
-Girls Who Code
+Girls Who Code interview project. 
